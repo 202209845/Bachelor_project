@@ -1,0 +1,56 @@
+quantity,value,unit
+number_of_gamma_scan_points,61,points
+source_manufacturer,"The Radiochemical Centre, Amersham",
+source_model,AMN 24,
+source_serial_number,AMN 5000/1365,
+factory_neutron_emission_reference,12000000.0,n/s
+factory_neutron_emission_reference_date,1968-07-05,
+selected_neutron_emission,10940438.881444655,n/s
+selected_neutron_emission_date,2026-03-15,
+neutron_source_normalization_status,factory result decay-corrected to the selected experimental date,
+factory_neutron_emission_standard_uncertainty,,n/s (not reported)
+alphanso_neutron_yield_key,an_yield,
+alphanso_neutron_yield,4268302.3248598855,ALPHANSO yield units
+alphanso_gamma_yield,2783366.02222262,ALPHANSO yield units
+alphanso_gamma_to_neutron_ratio,0.6521014235593044,photons/neutron
+selected_gamma_emission,7134275.768953624,photons/s
+gamma_source_normalization_status,decay-corrected source-specific neutron emission multiplied by the ALPHANSO total gamma-to-neutron yield ratio,
+reported_gamma_flux_uncertainty_scope,OpenMC batch-statistical standard uncertainty only,
+gamma_detector_model,GCA-07W-DL with LND 712,
+gamma_scan_detector_shape,right circular cylinder,
+gamma_tally_implementation,finite CSG cylinder scoring cell with CellFilter,
+openmc_version,0.15.3,
+number_of_transport_groups,2,groups
+potential_detector_overlap_pairs,"[('P1_x4_h85', 'P1_x7_h85')]",
+lnd712_effective_diameter,0.91,cm
+lnd712_effective_length,3.81,cm
+lnd712_active_tally_volume,2.477979114806917,cm3
+measurement_reference_to_mica,0.0,cm
+gamma_reference_offset_to_active_centre,1.905,cm
+gamma_detector_orientation_assumption,end-on: mica window faces the cabinet; active axis is radial,
+gamma_distance_reference_assumption,distance_cm is the cabinet-surface-to-mica-window gap,
+gca_manual_source,"Images SI GCA-07W-DL Operation Manual, pp. 3-4 and 31",
+lnd712_dimension_source,LND Model 712 manufacturer specification,
+group_1_variance_reduction_method,MAGIC photon weight windows,
+group_1_weight_window_generation_batches,40,batches
+group_1_weight_window_generation_particles_per_batch,25000,source photons/batch
+group_1_weight_window_update_interval,5,batches
+group_1_weight_window_mesh_dimension,"(20, 26, 7)",mesh cells
+group_1_weight_window_mesh_lower_left,"(-25.0, -480.405, -66.0)",cm
+group_1_weight_window_mesh_upper_right,"(469.405, 167.3272691585156, 97.0)",cm
+group_1_weight_window_file,openmc_run_measurement_gamma_scan_lnd712_cellfilter_group_1_ww_generation/weight_windows.h5,
+group_1_relative_error_target,10.0,%
+group_1_minimum_production_batches,200,batches
+group_1_maximum_production_batches,800,batches
+group_1_production_particles_per_batch,25000,source photons/batch
+group_1_trigger_batch_interval,20,batches
+group_1_completed_production_batches,800,batches
+group_1_initial_source_photons_in_production,20000000,source photons
+group_1_maximum_relative_error,78.53072541776672,%
+group_1_target_reached,False,
+group_2_transport_method,preserved analog statepoint,
+group_2_expected_batches,800,batches
+group_2_particles_per_batch,200000,source photons/batch
+statepoint_files,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/openmc_run_measurement_gamma_scan_lnd712_cellfilter_group_1_ww_production/statepoint.800.h5; /root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/openmc_run_measurement_gamma_scan_lnd712_cellfilter_group_2/statepoint.800.h5,
+table_output,N2_5_simulated_gamma_outputs/tables/measurement_specific_gamma_scan_summary_final.csv,
+figure_output_folder,N2_5_simulated_gamma_outputs/figures,

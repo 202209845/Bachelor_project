@@ -1,0 +1,11 @@
+quantity,value
+geometry,both f1/y walls and front (+x) f2 hollow; rear (-x) f2 solid
+number_of_scan_points,61
+source_model,AMN 24
+source_serial_number,AMN 5000/1365
+gamma_to_neutron_ratio_alphanso,0.6521014235593044
+gamma_source_emission_photon_s,7134275.768953624
+selected_source_date,2026-03-15
+group_1_max_batches,800
+group_2_batches,800
+uncertainty_scope,OpenMC batch-statistical standard uncertainty only

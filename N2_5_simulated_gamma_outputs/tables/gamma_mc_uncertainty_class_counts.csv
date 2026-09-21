@@ -1,0 +1,16 @@
+position,mc_uncertainty_class,count
+P1,low,2
+P1,moderate,3
+P1,high,5
+P1,very high,7
+P2,moderate,3
+P2,high,3
+P2,very high,11
+P3,low,2
+P3,moderate,2
+P3,high,4
+P3,very high,10
+P4,moderate,2
+P4,high,2
+P4,very high,1
+P5,low,4

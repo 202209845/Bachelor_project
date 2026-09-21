@@ -1,0 +1,11 @@
+quantity,value
+target_point,P2_x114_h55
+target_relative_mc_uncertainty,0.25
+achieved_relative_mc_uncertainty_percent,23.365842511170612
+minimum_batches,100
+maximum_batches,1200
+particles_per_batch,25000
+completed_batches,680
+random_seed,20264315
+weight_window_file,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H1_f1_sides_and_front_f2_hollow_transport_outputs/gamma/openmc_runs/hollow_gamma_scan_lnd712_cellfilter_group_1_ww_generation/weight_windows.h5
+statepoint_file,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H1_f1_sides_and_front_f2_hollow_transport_outputs/gamma/openmc_runs/hollow_gamma_scan_lnd712_cellfilter_targeted_P2_x114_h55/statepoint.0680.h5

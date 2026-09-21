@@ -1,0 +1,7 @@
+wall,orientation,inner_steel_cm,air_void_cm,outer_steel_cm,total_cm,construction
+rear f2 wall,-x,15.0,0.0,0.0,15.0,solid steel
+front f2 wall,+x,2.0,5.0,8.0,15.0,2 cm steel + 5 cm air + 8 cm steel
+f1 wall,-y,2.0,5.0,6.0,13.0,2 cm steel + 5 cm air + 6 cm steel
+f1 wall,+y,2.0,5.0,6.0,13.0,2 cm steel + 5 cm air + 6 cm steel
+f3 / bottom,-z,,0.0,25.0,25.0,solid steel
+f4 / top,+z,,0.0,12.0,12.0,solid steel

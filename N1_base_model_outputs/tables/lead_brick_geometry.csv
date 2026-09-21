@@ -1,0 +1,13 @@
+name,part,xmin,xmax,ymin,ymax,zmin,zmax
+Lead brick 1,top,-20.0,0.0,15.5,20.5,-16.0,-6.0
+Lead brick 2,top,0.0,20.0,15.5,20.5,-16.0,-6.0
+Lead brick 3,top,-20.0,0.0,15.5,20.5,-6.0,4.0
+Lead brick 4,top,0.0,20.0,15.5,20.5,-6.0,4.0
+Lead brick 5,top,-20.0,0.0,15.5,20.5,4.0,14.0
+Lead brick 6,top,0.0,20.0,15.5,20.5,4.0,14.0
+Lead brick 7,right,15.5,20.5,-20.0,0.0,-16.0,-6.0
+Lead brick 8,right,15.5,20.5,0.0,20.0,-16.0,-6.0
+Lead brick 9,right,15.5,20.5,-20.0,0.0,-6.0,4.0
+Lead brick 10,right,15.5,20.5,0.0,20.0,-6.0,4.0
+Lead brick 11,right,15.5,20.5,-20.0,0.0,4.0,14.0
+Lead brick 12,right,15.5,20.5,0.0,20.0,4.0,14.0

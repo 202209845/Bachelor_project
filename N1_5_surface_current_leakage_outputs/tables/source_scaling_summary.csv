@@ -1,0 +1,6 @@
+quantity,symbol,value,unit
+Assumed neutron source emission,S_n,12000000.0,n/s
+ALPHANSO neutron yield,Y_n,4268302.3248598855,ALPHANSO yield units
+ALPHANSO gamma yield,Y_gamma,2783366.02222262,ALPHANSO yield units
+Estimated gamma/neutron emission ratio,Y_gamma / Y_n,0.6521014235593044,photons/neutron
+Estimated gamma source emission,S_gamma,7825217.082711654,photons/s

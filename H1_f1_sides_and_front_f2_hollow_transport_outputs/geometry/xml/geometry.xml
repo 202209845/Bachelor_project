@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="55" name="Lead brick 1" material="20" region="286 -287 288 -289 290 -291" universe="3"/>
+  <cell id="56" name="Lead brick 2" material="20" region="292 -293 294 -295 296 -297" universe="3"/>
+  <cell id="57" name="Lead brick 3" material="20" region="298 -299 300 -301 302 -303" universe="3"/>
+  <cell id="58" name="Lead brick 4" material="20" region="304 -305 306 -307 308 -309" universe="3"/>
+  <cell id="59" name="Lead brick 5" material="20" region="310 -311 312 -313 314 -315" universe="3"/>
+  <cell id="60" name="Lead brick 6" material="20" region="316 -317 318 -319 320 -321" universe="3"/>
+  <cell id="61" name="Lead brick 7" material="20" region="322 -323 324 -325 326 -327" universe="3"/>
+  <cell id="62" name="Lead brick 8" material="20" region="328 -329 330 -331 332 -333" universe="3"/>
+  <cell id="63" name="Lead brick 9" material="20" region="334 -335 336 -337 338 -339" universe="3"/>
+  <cell id="64" name="Lead brick 10" material="20" region="340 -341 342 -343 344 -345" universe="3"/>
+  <cell id="65" name="Lead brick 11" material="20" region="346 -347 348 -349 350 -351" universe="3"/>
+  <cell id="66" name="Lead brick 12" material="20" region="352 -353 354 -355 356 -357" universe="3"/>
+  <cell id="67" name="Cabinet steel" material="18" region="(245 -246 247 -248 249 -250 -255) | (245 -246 247 -248 249 -250 256) | (255 -256 257 -258 261 -262 (-251 | 252 | -253 | 254)) | (255 -256 245 -246 247 -248 (-259 | 260 | -263 | 264)) | (255 -256 245 -251 247 -248)" universe="3"/>
+  <cell id="68" name="Cabinet wall void" material="15" region="255 -256 259 -260 263 -264 (-257 | 258 | -261 | 262) (-255 | 256 | -245 | 251 | -247 | 248)" universe="3"/>
+  <cell id="69" name="Cabinet inner air" material="15" region="251 -252 253 -254 255 -256 (265 | -266 | 267) (284 | -282 | 283) (285 | -282 | 283) (-286 | 287 | -288 | 289 | -290 | 291) (-292 | 293 | -294 | 295 | -296 | 297) (-298 | 299 | -300 | 301 | -302 | 303) (-304 | 305 | -306 | 307 | -308 | 309) (-310 | 311 | -312 | 313 | -314 | 315) (-316 | 317 | -318 | 319 | -320 | 321) (-322 | 323 | -324 | 325 | -326 | 327) (-328 | 329 | -330 | 331 | -332 | 333) (-334 | 335 | -336 | 337 | -338 | 339) (-340 | 341 | -342 | 343 | -344 | 345) (-346 | 347 | -348 | 349 | -350 | 351) (-352 | 353 | -354 | 355 | -356 | 357)" universe="3"/>
+  <cell id="70" name="Inner paraffin block around source" material="16" region="-269 266 -267 (270 | -271 | 272) (278 | -276 | 277) (279 | -276 | 277)" universe="3"/>
+  <cell id="71" name="Outer paraffin moderator" material="16" region="-265 266 -267 (269 | -266 | 267) (268 | -269 | -266 | 267) (284 | -282 | 283) (285 | -282 | 283)" universe="3"/>
+  <cell id="72" name="Plastic cylinder" material="17" region="-268 269 266 -267" universe="3"/>
+  <cell id="73" name="AmBe source fill" material="21" region="-273 274 -275" universe="3"/>
+  <cell id="74" name="Source stainless steel double capsule" material="19" region="-270 271 -272 (273 | -274 | 275)" universe="3"/>
+  <cell id="75" name="Sample tube 1 inner air" material="15" region="-280 276 -277" universe="3"/>
+  <cell id="76" name="Sample tube 2 inner air" material="15" region="-281 276 -277" universe="3"/>
+  <cell id="77" name="Sample tube 1 plastic wall" material="17" region="-278 280 276 -277" universe="3"/>
+  <cell id="78" name="Sample tube 2 plastic wall" material="17" region="-279 281 276 -277" universe="3"/>
+  <cell id="79" name="Metal rod 1" material="19" region="-284 282 -283" universe="3"/>
+  <cell id="80" name="Metal rod 2" material="19" region="-285 282 -283" universe="3"/>
+  <cell id="81" name="Outside air" material="15" region="239 -240 241 -242 243 -244 (-245 | 246 | -247 | 248 | -249 | 250)" universe="3"/>
+  <surface id="239" type="x-plane" boundary="vacuum" coeffs="-700.0"/>
+  <surface id="240" type="x-plane" boundary="vacuum" coeffs="700.0"/>
+  <surface id="241" type="y-plane" boundary="vacuum" coeffs="-700.0"/>
+  <surface id="242" type="y-plane" boundary="vacuum" coeffs="700.0"/>
+  <surface id="243" type="z-plane" boundary="vacuum" coeffs="-500.0"/>
+  <surface id="244" type="z-plane" boundary="vacuum" coeffs="500.0"/>
+  <surface id="245" type="x-plane" coeffs="-42.5"/>
+  <surface id="246" type="x-plane" coeffs="42.5"/>
+  <surface id="247" type="y-plane" coeffs="-33.5"/>
+  <surface id="248" type="y-plane" coeffs="33.5"/>
+  <surface id="249" type="z-plane" coeffs="-41.0"/>
+  <surface id="250" type="z-plane" coeffs="55.0"/>
+  <surface id="251" type="x-plane" coeffs="-27.5"/>
+  <surface id="252" type="x-plane" coeffs="27.5"/>
+  <surface id="253" type="y-plane" coeffs="-20.5"/>
+  <surface id="254" type="y-plane" coeffs="20.5"/>
+  <surface id="255" type="z-plane" coeffs="-16.0"/>
+  <surface id="256" type="z-plane" coeffs="43.0"/>
+  <surface id="257" type="x-plane" coeffs="-29.5"/>
+  <surface id="258" type="x-plane" coeffs="29.5"/>
+  <surface id="259" type="x-plane" coeffs="-34.5"/>
+  <surface id="260" type="x-plane" coeffs="34.5"/>
+  <surface id="261" type="y-plane" coeffs="-22.5"/>
+  <surface id="262" type="y-plane" coeffs="22.5"/>
+  <surface id="263" type="y-plane" coeffs="-27.5"/>
+  <surface id="264" type="y-plane" coeffs="27.5"/>
+  <surface id="265" type="z-cylinder" coeffs="0.0 0.0 14.5"/>
+  <surface id="266" type="z-plane" coeffs="-16.0"/>
+  <surface id="267" type="z-plane" coeffs="16.0"/>
+  <surface id="268" type="z-cylinder" coeffs="0.0 0.0 4.5"/>
+  <surface id="269" type="z-cylinder" coeffs="0.0 0.0 4.4"/>
+  <surface id="270" type="z-cylinder" coeffs="0.0 0.0 0.955"/>
+  <surface id="271" type="z-plane" coeffs="-2.43"/>
+  <surface id="272" type="z-plane" coeffs="2.43"/>
+  <surface id="273" type="z-cylinder" coeffs="0.0 0.0 0.6749999999999999"/>
+  <surface id="274" type="z-plane" coeffs="-2.1500000000000004"/>
+  <surface id="275" type="z-plane" coeffs="2.1500000000000004"/>
+  <surface id="276" type="z-plane" coeffs="0.0"/>
+  <surface id="277" type="z-plane" coeffs="16.0"/>
+  <surface id="278" type="z-cylinder" coeffs="-1.5 1.3 0.5"/>
+  <surface id="279" type="z-cylinder" coeffs="1.5 1.3 0.5"/>
+  <surface id="280" type="z-cylinder" coeffs="-1.5 1.3 0.4"/>
+  <surface id="281" type="z-cylinder" coeffs="1.5 1.3 0.4"/>
+  <surface id="282" type="z-plane" coeffs="-16.0"/>
+  <surface id="283" type="z-plane" coeffs="31.0"/>
+  <surface id="284" type="z-cylinder" coeffs="0.0 10.0 0.25"/>
+  <surface id="285" type="z-cylinder" coeffs="0.0 -10.0 0.25"/>
+  <surface id="286" type="x-plane" coeffs="-24.5"/>
+  <surface id="287" type="x-plane" coeffs="-4.5"/>
+  <surface id="288" type="y-plane" coeffs="15.5"/>
+  <surface id="289" type="y-plane" coeffs="20.5"/>
+  <surface id="290" type="z-plane" coeffs="-16.0"/>
+  <surface id="291" type="z-plane" coeffs="-6.0"/>
+  <surface id="292" type="x-plane" coeffs="-4.5"/>
+  <surface id="293" type="x-plane" coeffs="15.5"/>
+  <surface id="294" type="y-plane" coeffs="15.5"/>
+  <surface id="295" type="y-plane" coeffs="20.5"/>
+  <surface id="296" type="z-plane" coeffs="-16.0"/>
+  <surface id="297" type="z-plane" coeffs="-6.0"/>
+  <surface id="298" type="x-plane" coeffs="-24.5"/>
+  <surface id="299" type="x-plane" coeffs="-4.5"/>
+  <surface id="300" type="y-plane" coeffs="15.5"/>
+  <surface id="301" type="y-plane" coeffs="20.5"/>
+  <surface id="302" type="z-plane" coeffs="-6.0"/>
+  <surface id="303" type="z-plane" coeffs="4.0"/>
+  <surface id="304" type="x-plane" coeffs="-4.5"/>
+  <surface id="305" type="x-plane" coeffs="15.5"/>
+  <surface id="306" type="y-plane" coeffs="15.5"/>
+  <surface id="307" type="y-plane" coeffs="20.5"/>
+  <surface id="308" type="z-plane" coeffs="-6.0"/>
+  <surface id="309" type="z-plane" coeffs="4.0"/>
+  <surface id="310" type="x-plane" coeffs="-24.5"/>
+  <surface id="311" type="x-plane" coeffs="-4.5"/>
+  <surface id="312" type="y-plane" coeffs="15.5"/>
+  <surface id="313" type="y-plane" coeffs="20.5"/>
+  <surface id="314" type="z-plane" coeffs="4.0"/>
+  <surface id="315" type="z-plane" coeffs="14.0"/>
+  <surface id="316" type="x-plane" coeffs="-4.5"/>
+  <surface id="317" type="x-plane" coeffs="15.5"/>
+  <surface id="318" type="y-plane" coeffs="15.5"/>
+  <surface id="319" type="y-plane" coeffs="20.5"/>
+  <surface id="320" type="z-plane" coeffs="4.0"/>
+  <surface id="321" type="z-plane" coeffs="14.0"/>
+  <surface id="322" type="x-plane" coeffs="15.5"/>
+  <surface id="323" type="x-plane" coeffs="20.5"/>
+  <surface id="324" type="y-plane" coeffs="-19.5"/>
+  <surface id="325" type="y-plane" coeffs="0.5"/>
+  <surface id="326" type="z-plane" coeffs="-16.0"/>
+  <surface id="327" type="z-plane" coeffs="-6.0"/>
+  <surface id="328" type="x-plane" coeffs="15.5"/>
+  <surface id="329" type="x-plane" coeffs="20.5"/>
+  <surface id="330" type="y-plane" coeffs="0.5"/>
+  <surface id="331" type="y-plane" coeffs="20.5"/>
+  <surface id="332" type="z-plane" coeffs="-16.0"/>
+  <surface id="333" type="z-plane" coeffs="-6.0"/>
+  <surface id="334" type="x-plane" coeffs="15.5"/>
+  <surface id="335" type="x-plane" coeffs="20.5"/>
+  <surface id="336" type="y-plane" coeffs="-19.5"/>
+  <surface id="337" type="y-plane" coeffs="0.5"/>
+  <surface id="338" type="z-plane" coeffs="-6.0"/>
+  <surface id="339" type="z-plane" coeffs="4.0"/>
+  <surface id="340" type="x-plane" coeffs="15.5"/>
+  <surface id="341" type="x-plane" coeffs="20.5"/>
+  <surface id="342" type="y-plane" coeffs="0.5"/>
+  <surface id="343" type="y-plane" coeffs="20.5"/>
+  <surface id="344" type="z-plane" coeffs="-6.0"/>
+  <surface id="345" type="z-plane" coeffs="4.0"/>
+  <surface id="346" type="x-plane" coeffs="15.5"/>
+  <surface id="347" type="x-plane" coeffs="20.5"/>
+  <surface id="348" type="y-plane" coeffs="-19.5"/>
+  <surface id="349" type="y-plane" coeffs="0.5"/>
+  <surface id="350" type="z-plane" coeffs="4.0"/>
+  <surface id="351" type="z-plane" coeffs="14.0"/>
+  <surface id="352" type="x-plane" coeffs="15.5"/>
+  <surface id="353" type="x-plane" coeffs="20.5"/>
+  <surface id="354" type="y-plane" coeffs="0.5"/>
+  <surface id="355" type="y-plane" coeffs="20.5"/>
+  <surface id="356" type="z-plane" coeffs="4.0"/>
+  <surface id="357" type="z-plane" coeffs="14.0"/>
+</geometry>

@@ -1,0 +1,11 @@
+quantity,value,unit,note
+notebook,Notebook_6.ipynb,,Notebook 3 simulation versus Notebook 5 theory-assisted measured AP field
+comparison_grid,Notebook 5 common target grid,,all measurement-supported distances at exact Notebook 3 target heights
+simulated_interpolation,positive log-linear interpolation in distance,,same P-position and exact target height; no extrapolation
+Notebook_3_uncertainty_display,OpenMC batch-statistical ±1 standard uncertainty band,,marginal simulation sampling uncertainty
+Notebook_5_uncertainty_display,propagated ±1 standard uncertainty point bar,,measurement SEM plus Notebook 3 conversion-factor MC term
+zero_compatible_display,one-sided 95% upper estimate,,open downward triangle; point not connected as a central curve value
+ratio_definition,Notebook 3 simulated value / Notebook 5 estimate,dimensionless,central-value diagnostic only
+relative_residual_definition,100 * (Notebook 3 simulated - Notebook 5 estimate) / Notebook 5 estimate,%,descriptive central-value residual; positive means simulation is higher
+cross_covariance,unavailable,,no independence-assuming combined uncertainty or z score is reported
+total_comparison_status,model-assisted consistency test,,Notebook 5 uses Notebook 3 component conversion fields

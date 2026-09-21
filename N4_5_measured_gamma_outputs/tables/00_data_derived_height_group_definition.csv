@@ -1,0 +1,2 @@
+method,boundary_cm,lower_heights_cm,upper_heights_cm,lower_label,upper_label
+Two-class natural-break split of unique nominal P1-P5 measurement heights; minimum within-group sum of squares.,75.0,"38, 40, 42, 45, 50, 58, 60, 64, 65","85, 88, 98, 105",Lower height group (38–65 cm),Upper height group (85–105 cm)

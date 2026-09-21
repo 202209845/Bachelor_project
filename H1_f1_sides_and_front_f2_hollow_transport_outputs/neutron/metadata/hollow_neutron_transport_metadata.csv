@@ -1,0 +1,11 @@
+quantity,value
+geometry,both f1/y walls and front (+x) f2 hollow; rear (-x) f2 solid
+number_of_scan_points,61
+source_model,AMN 24
+source_serial_number,AMN 5000/1365
+selected_neutron_emission_n_s,10940438.881444655
+selected_source_date,2026-03-15
+run_batches,200
+particles_per_batch,100000
+statepoint_file,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H1_f1_sides_and_front_f2_hollow_transport_outputs/neutron/openmc_run/statepoint.200.h5
+uncertainty_scope,OpenMC batch-statistical standard uncertainty only

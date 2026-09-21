@@ -1,0 +1,58 @@
+quantity,value,unit
+notebook,Notebook_3.ipynb,
+number_of_scan_points,61,points
+source_manufacturer,"The Radiochemical Centre, Amersham",
+source_model,AMN 24,
+source_serial_number,AMN 5000/1365,
+factory_neutron_emission_reference,12000000.0,n/s
+factory_neutron_emission_reference_date,1968-07-05,
+selected_neutron_emission,10940438.881444655,n/s
+selected_neutron_emission_date,2026-03-15,
+neutron_source_normalization_status,factory result decay-corrected to the selected experimental date,
+alphanso_neutron_yield_key,an_yield,
+alphanso_neutron_yield,4268302.3248598855,ALPHANSO yield units
+alphanso_gamma_yield,2783366.02222262,ALPHANSO yield units
+alphanso_gamma_to_neutron_ratio,0.6521014235593044,photons/neutron
+selected_gamma_emission,7134275.768953624,photons/s
+gamma_source_normalization_status,decay-corrected source-specific neutron emission multiplied by the ALPHANSO total gamma-to-neutron yield ratio,
+dose_coefficient_data_source,icrp116,
+dose_quantity,effective,
+dose_irradiation_geometry,AP,
+dose_detector_side_length,2.0,cm
+dose_detector_volume,8.0,cm3
+neutron_flux_tally_definition,Notebook 2 virtual flux tally at neutron_flux_x/y/z coordinates,
+gamma_flux_tally_definition,LND 712 finite active CSG cylinder with CellFilter at gamma_flux_x/y/z coordinates,
+gamma_flux_lnd712_active_volume,2.477979114806917,cm3
+notebook_2_5_group_1_configured_relative_error_target,10.0,%
+notebook_2_5_group_1_target_reached,False,boolean
+notebook_2_5_group_1_maximum_relative_error,78.53072541776672,%
+notebook_2_5_gamma_input_convergence_status,configured target not reached; retained with reported uncertainties,
+gamma_flux_reference_offset_to_active_centre,1.905,cm
+common_dose_tally_definition,2 x 2 x 2 cm virtual cube at common_dose_x/y/z coordinates; coordinates equal Notebook 2 neutron-flux centres,
+common_flux_tally_definition,unweighted neutron and photon flux tallies in identical 2 x 2 x 2 cm virtual cubes at the Notebook 2 Studsvik-reference centres,
+common_flux_tally_volume,8.0,cm3
+height_group_boundary,70.0,cm
+height_group_method,midpoint of largest gap between unique loaded heights,
+legacy_xyz_coordinate_alias,x_cm/y_cm/z_cm equal common_dose_x/y/z_cm,
+gamma_to_neutron_flux_ratio_status,calculated only from co-located 2 x 2 x 2 cm common-cube tallies; detector-specific Notebook 2/2.5 fluxes are not ratioed,
+neutron_dose_batches,200,batches
+neutron_dose_particles_per_batch,100000,source neutrons/batch
+neutron_dose_total_histories,20000000,source neutrons
+gamma_dose_variance_reduction_method,Notebook 2.5 MAGIC photon weight windows,
+gamma_dose_weight_window_file,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/openmc_run_measurement_gamma_scan_lnd712_cellfilter_group_1_ww_generation/weight_windows.h5,
+gamma_dose_relative_error_target,80.0,%
+gamma_dose_minimum_batches,200,batches
+gamma_dose_maximum_batches,850,batches
+gamma_dose_trigger_batch_interval,20,batches
+gamma_dose_completed_batches,200,batches
+gamma_dose_particles_per_batch,25000,source photons/batch
+gamma_dose_total_histories,5000000,source photons
+gamma_dose_maximum_relative_error,67.78611373199787,%
+gamma_dose_target_reached,True,
+neutron_dose_statepoint,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/openmc_run_neutron_common_flux_and_dose/statepoint.200.h5,
+gamma_dose_statepoint,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/openmc_run_gamma_common_flux_and_dose_ww/statepoint.200.h5,
+reported_uncertainty_scope,OpenMC batch-statistical standard uncertainty only,
+excluded_uncertainty_sources,"source certificate, decay correction, ALPHANSO yields and spectra, geometry, materials, nuclear data, detector response",
+neutron_flux_input,N2_simulated_neutron_outputs/tables/measurement_specific_neutron_scan_summary_final.csv,
+gamma_flux_input,N2_5_simulated_gamma_outputs/tables/measurement_specific_gamma_scan_summary_final.csv,
+unified_output,N3_simulated_unified_outputs/tables/unified_simulated_radiation_field_final.csv,

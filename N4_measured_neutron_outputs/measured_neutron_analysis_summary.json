@@ -1,0 +1,16 @@
+{
+  "analysis": "Compact Studsvik measured-neutron analysis",
+  "measurement_quantity": "Studsvik AE 2202 D indicated neutron dose-equivalent rate",
+  "unit": "uSv/h",
+  "local_background_location": "3_sal_gang",
+  "background_mean_uSv_h": 0.5,
+  "background_sem_uSv_h": 0.09212147505241078,
+  "number_of_files": 80,
+  "number_of_physical_points": 61,
+  "number_of_repeated_points": 9,
+  "number_requiring_quality_review": 2,
+  "number_above_background_2sigma": 61,
+  "height_group_boundary_cm": 75.0,
+  "ap_effective_dose_equivalence_assumed": false,
+  "neutron_flux_conversion_performed": false
+}

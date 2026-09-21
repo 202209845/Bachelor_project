@@ -1,0 +1,18 @@
+quantity,value
+hollow_faces,"x_max, y_min, y_max"
+cabinet_outer_x_cm,85.0
+cabinet_outer_y_cm,67.0
+cabinet_outer_z_cm,96.0
+cabinet_inner_x_cm,55.0
+cabinet_inner_y_cm,41.0
+cabinet_inner_z_cm,59.0
+front_void_inner_x_cm,29.5
+front_void_outer_x_cm,34.5
+minus_y_void_inner_cm,-22.5
+minus_y_void_outer_cm,-27.5
+plus_y_void_inner_cm,22.5
+plus_y_void_outer_cm,27.5
+cabinet_air_layer_cross_section_cm2,845.0
+cabinet_air_layer_volume_cm3,49855.0
+cabinet_steel_volume_cm3,363820.0
+approx_cabinet_steel_mass_kg,2855.987

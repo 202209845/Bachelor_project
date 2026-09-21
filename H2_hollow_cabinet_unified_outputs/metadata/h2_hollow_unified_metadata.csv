@@ -1,0 +1,58 @@
+quantity,value,unit
+notebook,2H_Hollow_cabinet_unified.ipynb,
+number_of_scan_points,61,points
+source_manufacturer,"The Radiochemical Centre, Amersham",
+source_model,AMN 24,
+source_serial_number,AMN 5000/1365,
+factory_neutron_emission_reference,12000000.0,n/s
+factory_neutron_emission_reference_date,1968-07-05,
+selected_neutron_emission,10940438.881444655,n/s
+selected_neutron_emission_date,2026-03-15,
+neutron_source_normalization_status,factory result decay-corrected to the selected experimental date,
+alphanso_neutron_yield_key,an_yield,
+alphanso_neutron_yield,4268302.3248598855,ALPHANSO yield units
+alphanso_gamma_yield,2783366.02222262,ALPHANSO yield units
+alphanso_gamma_to_neutron_ratio,0.6521014235593044,photons/neutron
+selected_gamma_emission,7134275.768953624,photons/s
+gamma_source_normalization_status,decay-corrected source-specific neutron emission multiplied by the ALPHANSO total gamma-to-neutron yield ratio,
+dose_coefficient_data_source,icrp116,
+dose_quantity,effective,
+dose_irradiation_geometry,AP,
+dose_detector_side_length,2.0,cm
+dose_detector_volume,8.0,cm3
+neutron_flux_tally_definition,H1 hollow neutron virtual cube at neutron_flux_x/y/z coordinates,
+gamma_flux_tally_definition,LND 712 finite active CSG cylinder with CellFilter at gamma_flux_x/y/z coordinates,
+gamma_flux_lnd712_active_volume,2.477979114806917,cm3
+h1_gamma_group_1_configured_relative_error_target,80.0,%
+h1_gamma_group_1_target_reached,False,boolean
+h1_gamma_group_1_maximum_relative_error,100.0,%
+h1_gamma_input_convergence_status,configured 80% exploratory target not demonstrably reached; 21 point(s) have undefined relative MC uncertainty,
+gamma_flux_reference_offset_to_active_centre,1.905,cm
+common_dose_tally_definition,2 x 2 x 2 cm virtual cube at common_dose_x/y/z coordinates; coordinates equal Notebook 1H neutron-flux centres,
+common_flux_tally_definition,unweighted neutron and photon flux tallies in identical 2 x 2 x 2 cm virtual cubes at the H1 Studsvik-reference centres,
+common_flux_tally_volume,8.0,cm3
+height_group_boundary,70.0,cm
+height_group_method,midpoint of largest gap between unique loaded heights,
+legacy_xyz_coordinate_alias,x_cm/y_cm/z_cm equal common_dose_x/y/z_cm,
+gamma_to_neutron_flux_ratio_status,calculated only from co-located 2 x 2 x 2 cm common-cube tallies; detector-specific H1 neutron and gamma fluxes are not ratioed,
+neutron_dose_batches,200,batches
+neutron_dose_particles_per_batch,100000,source neutrons/batch
+neutron_dose_total_histories,20000000,source neutrons
+gamma_dose_variance_reduction_method,H1 hollow-cabinet MAGIC photon weight windows,
+gamma_dose_weight_window_file,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H1_f1_sides_and_front_f2_hollow_transport_outputs/gamma/openmc_runs/hollow_gamma_scan_lnd712_cellfilter_group_1_ww_generation/weight_windows.h5,
+gamma_dose_relative_error_target,50.0,%
+gamma_dose_minimum_batches,200,batches
+gamma_dose_maximum_batches,8000,batches
+gamma_dose_trigger_batch_interval,20,batches
+gamma_dose_completed_batches,4840,batches
+gamma_dose_particles_per_batch,25000,source photons/batch
+gamma_dose_total_histories,121000000,source photons
+gamma_dose_maximum_relative_error,49.91747944239594,%
+gamma_dose_target_reached,True,
+neutron_dose_statepoint,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H2_hollow_cabinet_unified_outputs/openmc_runs/neutron_common_cube_flux_and_ap_dose/statepoint.200.h5,
+gamma_dose_statepoint,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H2_hollow_cabinet_unified_outputs/openmc_runs/gamma_common_cube_flux_and_ap_dose_ww/statepoint.4840.h5,
+reported_uncertainty_scope,OpenMC batch-statistical standard uncertainty only,
+excluded_uncertainty_sources,"source certificate, decay correction, ALPHANSO yields and spectra, geometry, materials, nuclear data, detector response",
+neutron_flux_input,H1_f1_sides_and_front_f2_hollow_transport_outputs/neutron/tables/hollow_neutron_flux_summary_final.csv,
+gamma_flux_input,H1_f1_sides_and_front_f2_hollow_transport_outputs/gamma/tables/hollow_gamma_flux_summary_final.csv,
+unified_output,H2_hollow_cabinet_unified_outputs/tables/hollow_unified_simulated_radiation_field_final.csv,

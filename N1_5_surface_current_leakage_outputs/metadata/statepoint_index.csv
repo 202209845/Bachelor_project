@@ -1,0 +1,5 @@
+model_key,statepoint_path
+full_geometry_neutron,openmc_run_surface_current_leakage/full_geometry/neutron/statepoint.500.h5
+full_geometry_photon,openmc_run_surface_current_leakage/full_geometry/photon/statepoint.500.h5
+no_cabinet_no_lead_neutron,openmc_run_surface_current_leakage/no_cabinet_no_lead/neutron/statepoint.500.h5
+no_cabinet_no_lead_photon,openmc_run_surface_current_leakage/no_cabinet_no_lead/photon/statepoint.500.h5

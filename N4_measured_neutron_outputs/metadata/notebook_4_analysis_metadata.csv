@@ -1,0 +1,12 @@
+quantity,value,unit
+notebook,Notebook_4.ipynb,
+workflow,compact measured-neutron analysis,
+local_background_location,3_sal_gang,
+number_of_physical_points,61,points
+height_grouping_method,fixed project measurement-height groups: 42–65 cm and 85+ cm,
+height_group_boundary,75.0,cm
+lower_height_group,42–65,cm
+upper_height_group,85+,cm
+vertical_uncertainty,"max(pooled reading SEM, between-file SEM), combined with local-background SEM",
+geometric_limits_in_vertical_error_bars,False,
+neutron_flux_conversion_performed,False,

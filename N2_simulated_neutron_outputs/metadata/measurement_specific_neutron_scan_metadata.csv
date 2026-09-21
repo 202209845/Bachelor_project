@@ -1,0 +1,18 @@
+quantity,value,unit
+number_of_scan_points,61,points
+source_manufacturer,"The Radiochemical Centre, Amersham",
+source_model,AMN 24,
+source_serial_number,AMN 5000/1365,
+factory_neutron_emission_reference,12000000.0,n/s
+factory_neutron_emission_reference_date,1968-07-05,
+selected_neutron_emission,10940438.881444655,n/s
+selected_neutron_emission_date,2026-03-15,
+source_normalization_status,factory result decay-corrected to the selected experimental date,
+factory_neutron_emission_standard_uncertainty,,n/s (not reported)
+historical_moderated_local_thermal_flux,23000.0,n/cm2/s
+historical_local_thermal_flux_standard_uncertainty,,n/cm2/s (unknown)
+reported_flux_uncertainty_scope,OpenMC batch-statistical standard uncertainty only,
+scan_detector_side_length,2.0,cm
+scan_detector_volume,8.0,cm3
+table_output,N2_simulated_neutron_outputs/tables/measurement_specific_neutron_scan_summary_final.csv,
+figure_output_folder,N2_simulated_neutron_outputs/figures,

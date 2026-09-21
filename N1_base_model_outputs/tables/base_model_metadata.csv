@@ -1,0 +1,11 @@
+quantity,value
+Notebook purpose,"Build and document the shared base OpenMC geometry, materials, source model and base tally positions."
+Shared geometry source,ambe_base_model.py
+Main neutron source strength,1.200000e+07 n/s
+Estimated gamma/neutron ratio,6.521014e-01 photons/neutron
+Estimated gamma source strength,7.825217e+06 photons/s
+Cabinet outer dimensions,85.0 x 67.0 x 96.0 cm
+Cabinet z range,-41.0 to 55.0 cm
+Paraffin dimensions,"diameter 29.0 cm, height 32.0 cm"
+Lead shielding bricks,12 bricks
+Base tally points,10 P1--P5 reference points

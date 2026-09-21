@@ -1,0 +1,16 @@
+position,total_dose_mc_uncertainty_class,count
+P1,low,2
+P1,moderate,5
+P1,high,6
+P1,very high,4
+P2,moderate,4
+P2,high,8
+P2,very high,5
+P3,low,2
+P3,moderate,2
+P3,high,8
+P3,very high,6
+P4,moderate,2
+P4,high,3
+P5,low,2
+P5,moderate,2

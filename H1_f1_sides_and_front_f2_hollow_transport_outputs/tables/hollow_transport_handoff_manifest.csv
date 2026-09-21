@@ -1,0 +1,3 @@
+dataset,ready,rows,path
+neutron_flux,True,61,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H1_f1_sides_and_front_f2_hollow_transport_outputs/neutron/tables/hollow_neutron_flux_summary_final.csv
+gamma_flux,True,61,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H1_f1_sides_and_front_f2_hollow_transport_outputs/gamma/tables/hollow_gamma_flux_summary_final.csv

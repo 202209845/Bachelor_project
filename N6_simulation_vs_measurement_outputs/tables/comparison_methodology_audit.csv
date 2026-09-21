@@ -1,0 +1,7 @@
+item,method,interpretation
+comparison support,"same P-position, exact target height, and in-support distance",no nearest-P substitution and no extrapolation
+Notebook 3 display uncertainty,OpenMC batch-statistical ±1 standard uncertainty band,simulation sampling precision only
+Notebook 5 display uncertainty,propagated ±1 standard uncertainty bars,measurement SEM plus Notebook 3 factor MC term
+zero-compatible Notebook 5 point,open downward triangle at one-sided 95% upper estimate,avoids artificial log-axis clipping across zero
+ratio and relative deviation,central values only,descriptive because cross-covariance is unavailable
+total comparison,Notebook 3 physical total vs Notebook 5 theory-assisted total,"model-assisted consistency test, not independent validation"

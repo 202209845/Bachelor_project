@@ -1,0 +1,15 @@
+quantity,value,unit,note
+notebook,Notebook_5.ipynb,,measured components and theory-assisted total AP field
+lower_analysis_height_interval,38 to 65 inclusive,cm,measured interpolation support; exact target heights retained
+upper_analysis_height_interval,85 to 113 inclusive,cm,measured interpolation support; exact target heights retained
+neutron_conversion_factor,Notebook 3 neutron AP component / Studsvik-labelled neutron proxy,dimensionless,component-specific; never total/proxy
+gamma_conversion_factor,Notebook 3 gamma AP component / GCA Cs137-equivalent proxy,dimensionless,component-specific; never total/proxy
+interpolation_method,log-linear distance interpolation followed by height interpolation,,performed independently for neutron and gamma within P and interval
+extrapolation_policy,no measured-field extrapolation,,targets outside measured component distance support remain unavailable
+theory_factor_endpoint_policy,nearest factor in the same P-position and height interval,,used only outside discrete Notebook 3 factor nodes and flagged per measured point
+single_height_interval_policy,single measured-height curve represents the selected interval,,mode and support height exported for every target point
+total_definition,interpolated neutron AP component plus interpolated gamma AP component,uSv/h,components are never alternated in one connected curve
+uncertainty_scope,measurement SEM plus Notebook 3 MC factor uncertainty,,zero covariance for ratio terms; component totals treated independent
+excluded_systematic_uncertainties,"geometry, material composition, nuclear data, source strength, complete detector response",,documented but not included in plotted standard uncertainty
+Notebook_1_6_energy_use,qualitative broad leakage-energy cross-check,particle-rate fraction,not used numerically as dose weights
+result_independence,not independent of Notebook 3,,Notebook 3 supplies the component conversion fields

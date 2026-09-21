@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# VS Code and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Superseded notebook copies
+Old/
+
+# Raw OpenMC working directories
+openmc_run_*/
+**/openmc_runs/
+
+# OpenMC intermediate and binary output
+**/statepoint.*.h5
+**/summary.h5
+**/volume_*.h5
+**/particle*.h5
+**/tracks*.h5
+**/tallies.out
+
+# Export archives
+NF_AmBe_Paraffin.tar
+NF_AmBe_Paraffin.tar.gz
+
+**/openmc_run/

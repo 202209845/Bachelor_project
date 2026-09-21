@@ -1,0 +1,5 @@
+input_role,source_path,rows,columns
+measured neutron component,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N4_measured_neutron_outputs/tables/08_measured_dose_rate_plotting_data.csv,61,78
+measured gamma component,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N4_5_measured_gamma_outputs/tables/measured_gamma_scan_summary_final.csv,45,75
+Notebook 3 physical AP components and target grid,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N3_simulated_unified_outputs/tables/unified_simulated_radiation_field_final.csv,61,72
+Notebook 3 detector-proxy components,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N3_simulated_unified_outputs/tables/simulated_instrument_equivalent_radiation_field_final.csv,61,30

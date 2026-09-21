@@ -1,0 +1,8 @@
+material_id,name,density,density_units
+43,Air,0.001205,g/cm3
+44,Paraffin CH2,0.93,g/cm3
+45,Plastic CH2,0.95,g/cm3
+46,Cabinet wall material,7.85,g/cm3
+47,Stainless steel,8.0,g/cm3
+48,Lead shielding bricks,11.34,g/cm3
+49,AmBe fill transport approximation,1.85,g/cm3

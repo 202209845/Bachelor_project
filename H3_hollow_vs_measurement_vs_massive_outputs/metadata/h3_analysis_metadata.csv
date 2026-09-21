@@ -1,0 +1,12 @@
+quantity,value,note
+notebook,3H_Hollow_vs_measurement_vs_massiv.ipynb,final three-way H-series comparison
+hollow_input,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H2_hollow_cabinet_unified_outputs/tables/hollow_unified_simulated_radiation_field_final.csv,Notebook 2H physical AP field
+massive_input,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N3_simulated_unified_outputs/tables/unified_simulated_radiation_field_final.csv,original Notebook 3 physical AP field
+measured_input,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N5_unified_measured_outputs/tables/measured_total_ap_field_common_grid_final.csv,Notebook 5 theory-assisted measured AP field
+metadata_compatibility_status,"source normalization, evaluation date, and AP geometry matched",source/date/AP checks when metadata are available
+shared_simulation_nodes,61,"same nominal P-position, distance, and target height"
+maximum_common_coordinate_difference_cm,0.0,must be at or below matching tolerance
+simulation_interpolation,positive log-linear within same P and exact target height,no extrapolation
+measurement_dependence,Notebook 5 AP field uses massive Notebook 3 conversion factors,simulation-to-measurement comparison is not independent
+hollow_massive_ratio_uncertainty,quadrature of relative OpenMC batch standard uncertainties,statistically independent simulation-run assumption
+reported_uncertainty_scope,displayed component uncertainties; no combined independent z score,model/source/material/nuclear-data covariance unavailable

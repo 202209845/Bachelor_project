@@ -1,0 +1,11 @@
+position,analysis_height_interval,number_of_target_points,original_notebook3_points,measurement_supported_added_points,number_of_target_heights,target_heights_cm,minimum_distance_cm,maximum_distance_cm
+P1,lower,20,8,12,1,42,0.0,420.0
+P1,upper,9,9,0,1,85,0.0,420.0
+P2,lower,7,7,0,1,55,2.0,420.0
+P2,upper,12,10,2,1,85,0.0,400.0
+P3,lower,9,8,1,1,45,0.0,320.0
+P3,upper,10,10,0,1,85,0.0,400.0
+P4,lower,8,4,4,2,"42, 45",0.0,85.0
+P4,upper,2,1,1,1,113,138.0,152.0
+P5,lower,2,2,0,1,45,0.0,6.0
+P5,upper,2,2,0,1,85,0.0,6.0

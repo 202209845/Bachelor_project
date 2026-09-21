@@ -1,0 +1,16 @@
+quantity,value
+notebook,1H_F1_SIDES_AND_FRONT_F2_Hollow_cabinet_geo_+_n_and_g_runs.ipynb
+geometry_mode,three hollow vertical walls; rear f2 solid
+hollow_faces,"+x / front f2, -y / f1, +y / f1"
+rear_f2_minus_x_layers_cm,15 solid steel
+front_f2_plus_x_layers_cm,2 steel + 5 air + 8 steel
+minus_y_f1_layers_cm,2 steel + 5 air + 6 steel
+plus_y_f1_layers_cm,2 steel + 5 air + 6 steel
+f3_bottom_cm,25.0
+f4_top_cm,12.0
+experiment_date,2026-03-15
+neutron_transport_ready,True
+gamma_transport_ready,True
+neutron_gamma_combination,not combined at flux level; convert separately to dose in Notebook 2H
+gamma_target_relative_mc_uncertainty,0.8
+gamma_run_status,exploratory; not intended as final high-precision production result

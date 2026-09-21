@@ -1,0 +1,11 @@
+quantity,value,unit
+manufacturer,AB Atomenergi Sweden (Studsvik),
+model,AE 2202 D,
+measurement_quantity,Studsvik AE 2202 D indicated neutron dose-equivalent rate,uSv/h
+head_diameter,21.5,cm
+detector_centre_offset,10.75,cm
+preferred_orientation,90.0,degree
+orientation_limit,1.0,degree
+position_limit,1.0,cm
+nominal_sensitivity,3.6,cps/(mrem/h)
+AP_effective_dose_equivalence_assumed,False,

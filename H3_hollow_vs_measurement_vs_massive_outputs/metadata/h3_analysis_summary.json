@@ -1,0 +1,10 @@
+{
+  "notebook": "3H_Hollow_vs_measurement_vs_massiv.ipynb",
+  "comparison_grid_rows": 81,
+  "three_way_total_comparisons": 37,
+  "shared_simulation_nodes": 61,
+  "maximum_coordinate_difference_cm": 0.0,
+  "figures": 9,
+  "primary_table": "/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H3_hollow_vs_measurement_vs_massive_outputs/tables/hollow_vs_measurement_vs_massive_common_grid_final.csv",
+  "interpretation": "model-assisted consistency comparison; direct hollow/massive ratio isolates the cabinet-geometry change within shared model assumptions"
+}

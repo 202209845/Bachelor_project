@@ -1,0 +1,4 @@
+input_role,path,rows,columns
+Hollow-cabinet simulated physical AP field,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/H2_hollow_cabinet_unified_outputs/tables/hollow_unified_simulated_radiation_field_final.csv,61,73
+Massive-cabinet simulated physical AP field,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N3_simulated_unified_outputs/tables/unified_simulated_radiation_field_final.csv,61,73
+Theory-assisted measured AP field,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N5_unified_measured_outputs/tables/measured_total_ap_field_common_grid_final.csv,81,33

@@ -1,0 +1,12 @@
+quantity,value,unit
+number_of_scan_points,61,points
+source,"AMN 24, AMN 5000/1365",
+factory_neutron_emission_reference,12000000.0,n/s
+factory_neutron_emission_reference_date,1968-07-05,
+selected_neutron_emission,10940438.881444655,n/s
+selected_neutron_emission_date,2026-03-15,
+historical_moderated_local_thermal_flux,23000.0,n/cm2/s; uncertainty unknown
+exported_uncertainty_scope,OpenMC batch-statistical standard uncertainty only,
+output_table_main_folder,measurement_specific_neutron_scan_summary_final.csv,
+output_table_folder,N2_simulated_neutron_outputs/tables/measurement_specific_neutron_scan_summary_final.csv,
+figure_folder,N2_simulated_neutron_outputs/figures,

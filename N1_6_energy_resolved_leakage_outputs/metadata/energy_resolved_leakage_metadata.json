@@ -1,0 +1,36 @@
+{
+    "notebook": "1_6_AmBe_Paraffin_Energy_resolved_leakage.ipynb",
+    "created": "2026-07-11T14:46:01",
+    "purpose": "Energy-resolved closed-box leakage and global particle-balance analysis for the Am-Be/paraffin/cabinet model.",
+    "output_folder": "N1_6_energy_resolved_leakage_outputs",
+    "table_folder": "N1_6_energy_resolved_leakage_outputs/tables",
+    "figure_folder": "N1_6_energy_resolved_leakage_outputs/figures",
+    "metadata_folder": "N1_6_energy_resolved_leakage_outputs/metadata",
+    "run_settings": {
+        "batches": 300,
+        "particles": 100000,
+        "histories": 30000000
+    },
+    "source_strengths": {
+        "neutron_source_strength_per_s": 12000000.0,
+        "gamma_source_strength_per_s": 7825771.383943637,
+        "gamma_per_neutron_source_ratio": 0.6521476153286364
+    },
+    "energy_bins": {
+        "neutron_min_eV": 0.001,
+        "neutron_max_eV": 19952623.149688788,
+        "neutron_number_of_bins": 120,
+        "photon_min_eV": 1000.0,
+        "photon_max_eV": 19952623.149688788,
+        "photon_number_of_bins": 100
+    },
+    "side_order": [
+        "x_min",
+        "x_max",
+        "y_min",
+        "y_max",
+        "z_min",
+        "z_max"
+    ],
+    "interpretation_note": "The closed-box leakage tally gives a global leakage estimate. It is complementary to local detector-point dose-rate tallies."
+}

@@ -1,0 +1,8 @@
+item,method,interpretation
+comparison support,"same P-position, exact target height, in-support distance",no nearest-direction substitution and no extrapolation
+hollow simulation uncertainty,OpenMC batch-statistical ±1 standard uncertainty band,sampling precision only
+massive simulation uncertainty,OpenMC batch-statistical ±1 standard uncertainty band,sampling precision only
+measured AP uncertainty,Notebook 5 propagated ±1 standard uncertainty bars,measurement SEM plus massive-model conversion-factor MC term
+simulation-to-measurement ratios,central values only,descriptive because Notebook 5 is model assisted
+hollow-to-massive ratio uncertainty,quadrature of relative OpenMC batch uncertainties,assumes statistically independent simulation histories
+central agreement gain,|log10(massive/measured)| - |log10(hollow/measured)|,positive means hollow is centrally closer; not a significance test

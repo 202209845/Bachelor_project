@@ -1,0 +1,13 @@
+{
+  "analysis": "Notebook 3 simulation versus Notebook 5 theory-assisted measured AP field",
+  "comparison_grid_rows": 81,
+  "simulation_available_rows": 74,
+  "neutron_comparisons": 74,
+  "gamma_comparisons": 37,
+  "total_comparisons": 37,
+  "simulated_extrapolation_used": false,
+  "ratio_uncertainty_propagated_as_independent": false,
+  "uncertainty_normalized_residual_reported": false,
+  "result_is_independent_validation": false,
+  "canonical_output": "/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N6_simulation_vs_measurement_outputs/tables/simulation_vs_notebook5_common_grid_final.csv"
+}

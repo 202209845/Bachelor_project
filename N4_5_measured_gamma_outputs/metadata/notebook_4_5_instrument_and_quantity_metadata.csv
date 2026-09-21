@@ -1,0 +1,15 @@
+quantity,value,unit
+instrument,GCA-07W-DL,
+detector,LND 712 Geiger-Mueller tube in external wand,
+front_panel_dose_scale,mSv/hr,
+counting_mode,CPS,
+logged_primary_quantity,counts per second,CPS
+Cs137_conversion_factor,0.6,uSv/h per CPS
+Cs137_reference_energy,0.662,MeV
+active_centre_offset,1.905,cm
+position_limit_each_axis,1.0,cm
+axis_alignment,0.0,degree
+axis_alignment_limit,1.0,degree
+manufacturer_accuracy_limit,5.0,%
+conservative_countable_range,5000.0,CPS
+AP_effective_dose_equivalence_assumed,False,

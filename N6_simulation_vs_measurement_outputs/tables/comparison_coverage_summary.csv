@@ -1,0 +1,11 @@
+position,analysis_height_interval,analysis_height_interval_label,comparison_grid_points,exact_notebook3_points,interpolated_notebook3_points,simulation_available_points,neutron_comparisons,gamma_comparisons,total_comparisons,target_heights_cm,minimum_distance_cm,maximum_distance_cm
+P1,lower,Lower height interval (38–65 cm),20,8,12,20,20,17,17,42,0.0,420.0
+P1,upper,Upper height interval (85–113 cm),9,9,0,9,9,0,0,85,0.0,420.0
+P2,lower,Lower height interval (38–65 cm),7,7,0,7,7,6,6,55,2.0,420.0
+P2,upper,Upper height interval (85–113 cm),12,10,1,11,11,3,3,85,0.0,400.0
+P3,lower,Lower height interval (38–65 cm),9,8,0,8,8,4,4,45,0.0,320.0
+P3,upper,Upper height interval (85–113 cm),10,10,0,10,10,1,1,85,0.0,400.0
+P4,lower,Lower height interval (38–65 cm),8,4,0,4,4,3,3,"42, 45",0.0,85.0
+P4,upper,Upper height interval (85–113 cm),2,1,0,1,1,0,0,113,138.0,152.0
+P5,lower,Lower height interval (38–65 cm),2,2,0,2,2,2,2,45,0.0,6.0
+P5,upper,Upper height interval (85–113 cm),2,2,0,2,2,1,1,85,0.0,6.0

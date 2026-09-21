@@ -1,0 +1,14 @@
+type,path
+table,base_model_outputs/tables/ambe_gamma_lines.csv
+table,base_model_outputs/tables/base_geometry_summary.csv
+table,base_model_outputs/tables/base_material_summary.csv
+table,base_model_outputs/tables/base_model_metadata.csv
+table,base_model_outputs/tables/base_tally_positions.csv
+table,base_model_outputs/tables/lead_brick_geometry.csv
+table,base_model_outputs/tables/source_scaling_summary.csv
+figure,base_model_outputs/figures/ambe_gamma_emission_lines.png
+figure,base_model_outputs/figures/ambe_neutron_emission_spectrum.png
+figure,base_model_outputs/figures/base_geometry_3d_sketch.png
+figure,base_model_outputs/figures/base_geometry_3d_sketch_with_tallies.png
+figure,base_model_outputs/figures/base_geometry_openmc_2d_slices.png
+figure,base_model_outputs/figures/base_geometry_openmc_2d_slices_with_tallies.png

@@ -1,0 +1,8 @@
+filename,description,rows,columns,status
+N1_6_energy_resolved_leakage_outputs/tables/energy_resolved_leakage_full.csv,"Full energy-resolved leakage table by particle, side and energy bin.",1320.0,20.0,saved
+N1_6_energy_resolved_leakage_outputs/tables/side_integrated_leakage_summary.csv,Energy-integrated leakage summary by particle and box side.,12.0,8.0,saved
+N1_6_energy_resolved_leakage_outputs/tables/global_escaped_energy_spectrum.csv,Escaped energy spectra summed over all box sides.,220.0,13.0,saved
+N1_6_energy_resolved_leakage_outputs/tables/global_neutron_photon_balance.csv,Global escaped particle balance for neutron and photon simulations.,2.0,9.0,saved
+N1_6_energy_resolved_leakage_outputs/tables/energy_group_leakage_by_side.csv,Broad energy-group leakage summary by particle and box side.,36.0,8.0,saved
+energy_resolved_global_leakage_balance_final.csv,Root-level final global leakage balance table.,2.0,9.0,saved
+N1_6_energy_resolved_leakage_outputs/metadata/energy_resolved_leakage_metadata.json,Metadata for the energy-resolved leakage notebook.,,,saved

@@ -1,0 +1,3 @@
+input_role,path,rows,columns
+Notebook 3 simulated physical AP field,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N3_simulated_unified_outputs/tables/unified_simulated_radiation_field_final.csv,61,74
+Notebook 5 theory-assisted measured AP field,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N5_unified_measured_outputs/tables/measured_total_ap_field_common_grid_final.csv,81,33

@@ -1,0 +1,14 @@
+quantity,value,unit
+Cabinet outer x size,85.0,cm
+Cabinet outer y size,67.0,cm
+Cabinet outer z size,96.0,cm
+Cabinet z min,-41.0,cm
+Cabinet z max,55.0,cm
+Cabinet inner x width,55.0,cm
+Cabinet inner y width,41.0,cm
+Cabinet inner z height,59.0,cm
+Paraffin radius,14.5,cm
+Paraffin height,32.0,cm
+Source outer radius,0.955,cm
+Source active radius,0.6749999999999999,cm
+Source active height,4.300000000000001,cm

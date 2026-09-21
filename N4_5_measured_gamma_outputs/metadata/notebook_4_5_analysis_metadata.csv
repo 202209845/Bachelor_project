@@ -1,0 +1,10 @@
+quantity,value,unit
+notebook,Notebook_4_5.ipynb,
+workflow,compact measured-gamma analysis,
+number_of_physical_points,45,points
+height_grouping_method,Two-class natural-break split of unique nominal P1-P5 measurement heights; minimum within-group sum of squares.,
+height_group_boundary,75.0,cm
+vertical_uncertainty,"max(pooled sample SEM, pooled Poisson SEM, between-file SEM), combined with nearest-height background",
+geometric_limits_in_vertical_error_bars,False,
+calibration_accuracy_in_vertical_error_bars,False,
+photon_flux_conversion_performed,False,

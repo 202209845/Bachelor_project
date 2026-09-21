@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material id="50" name="Air">
+    <density value="0.001205" units="g/cm3"/>
+    <nuclide name="N14" ao="0.7771428600000001"/>
+    <nuclide name="N15" ao="0.00285714"/>
+    <nuclide name="O16" ao="0.20992041"/>
+    <nuclide name="O17" ao="7.959e-05"/>
+    <nuclide name="Ar36" ao="3.336e-05"/>
+    <nuclide name="Ar38" ao="6.29e-06"/>
+    <nuclide name="Ar40" ao="0.00996035"/>
+  </material>
+  <material id="51" name="Paraffin CH2">
+    <density value="0.93" units="g/cm3"/>
+    <nuclide name="C0" ao="1.0"/>
+    <nuclide name="H1" ao="1.99968852"/>
+    <nuclide name="H2" ao="0.00031148"/>
+    <sab name="c_H_in_CH2"/>
+  </material>
+  <material id="52" name="Plastic CH2">
+    <density value="0.95" units="g/cm3"/>
+    <nuclide name="C0" ao="1.0"/>
+    <nuclide name="H1" ao="1.99968852"/>
+    <nuclide name="H2" ao="0.00031148"/>
+    <sab name="c_H_in_CH2"/>
+  </material>
+  <material id="53" name="Cabinet wall material">
+    <density value="7.85" units="g/cm3"/>
+    <nuclide name="Fe54" wo="0.05532647058252718"/>
+    <nuclide name="Fe56" wo="0.900634982039712"/>
+    <nuclide name="Fe57" wo="0.021171612414011436"/>
+    <nuclide name="Fe58" wo="0.0028669349637493765"/>
+    <nuclide name="C0" wo="0.02"/>
+  </material>
+  <material id="54" name="Stainless steel">
+    <density value="8.0" units="g/cm3"/>
+    <nuclide name="Fe54" wo="0.039518907558947984"/>
+    <nuclide name="Fe56" wo="0.6433107014569371"/>
+    <nuclide name="Fe57" wo="0.015122580295722454"/>
+    <nuclide name="Fe58" wo="0.002047810688392412"/>
+    <nuclide name="Cr50" wo="0.007930004583164795"/>
+    <nuclide name="Cr52" wo="0.1590287884675572"/>
+    <nuclide name="Cr53" wo="0.01837981495548285"/>
+    <nuclide name="Cr54" wo="0.004661391993795167"/>
+    <nuclide name="Ni58" wo="0.0671977052965899"/>
+    <nuclide name="Ni60" wo="0.026775962899229563"/>
+    <nuclide name="Ni61" wo="0.0011833590852967102"/>
+    <nuclide name="Ni62" wo="0.0038348223034871697"/>
+    <nuclide name="Ni64" wo="0.00100815041539667"/>
+    <nuclide name="Mn55" wo="0.01"/>
+  </material>
+  <material id="55" name="Lead shielding bricks">
+    <density value="11.34" units="g/cm3"/>
+    <nuclide name="Pb204" wo="0.013780837879174387"/>
+    <nuclide name="Pb206" wo="0.23955499914108686"/>
+    <nuclide name="Pb207" wo="0.22074295834851623"/>
+    <nuclide name="Pb208" wo="0.5259212046312225"/>
+  </material>
+  <material id="56" name="AmBe fill transport approximation">
+    <density value="1.85" units="g/cm3"/>
+    <nuclide name="Be9" ao="1.0"/>
+  </material>
+</materials>

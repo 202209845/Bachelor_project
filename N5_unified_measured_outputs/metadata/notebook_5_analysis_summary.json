@@ -1,0 +1,23 @@
+{
+  "analysis": "component-specific theory-assisted measured total AP field",
+  "component_conversion": {
+    "neutron": "Notebook 3 neutron AP component / Studsvik-labelled neutron proxy",
+    "gamma": "Notebook 3 gamma AP component / GCA Cs137-equivalent proxy"
+  },
+  "height_intervals_cm": {
+    "lower": [
+      38.0,
+      65.0
+    ],
+    "upper": [
+      85.0,
+      113.0
+    ]
+  },
+  "target_grid_points": 81,
+  "total_estimates_available": 40,
+  "measured_field_extrapolation_used": false,
+  "theory_factor_endpoint_representative_values_allowed": true,
+  "result_is_independent_measurement": false,
+  "canonical_output": "/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N5_unified_measured_outputs/tables/measured_total_ap_field_common_grid_final.csv"
+}

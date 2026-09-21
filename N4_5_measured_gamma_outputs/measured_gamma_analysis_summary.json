@@ -1,0 +1,20 @@
+{
+  "analysis": "Compact GCA measured-gamma analysis",
+  "primary_measurement": "background-corrected GCA count rate",
+  "primary_unit": "CPS",
+  "derived_quantity": "Cs-137-equivalent detector-indicated gamma dose rate",
+  "derived_unit": "uSv/h",
+  "front_panel_settings": {
+    "dose_scale": "mSv/hr",
+    "count_mode": "CPS"
+  },
+  "number_of_files": 47,
+  "number_of_physical_points": 45,
+  "number_of_repeated_points": 0,
+  "number_requiring_quality_review": 0,
+  "number_above_background_2sigma": 35,
+  "height_group_boundary_cm": 75.0,
+  "calibration_factor_uSv_h_per_CPS": 0.6,
+  "ap_effective_dose_equivalence_assumed": false,
+  "photon_flux_conversion_performed": false
+}

@@ -1,0 +1,7 @@
+particle,broad_energy_group,six_face_particle_rate_fraction_percent,use_in_notebook_5
+neutron,thermal,0.09122801,qualitative energy-distribution cross-check only
+neutron,epithermal_intermediate,21.12094678,qualitative energy-distribution cross-check only
+neutron,fast,78.78782521,qualitative energy-distribution cross-check only
+gamma,low_energy,0.79788166,qualitative energy-distribution cross-check only
+gamma,intermediate,41.58099767,qualitative energy-distribution cross-check only
+gamma,high_energy,57.62112066,qualitative energy-distribution cross-check only

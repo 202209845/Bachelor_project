@@ -1,0 +1,5 @@
+model_key,scenario,scenario_label,particle,total_leakage_per_source,total_leakage_std_per_source,total_leakage_fraction_of_source,source_rate,source_rate_unit,total_leakage_rate,total_leakage_rate_std,leakage_rate_unit,relative_uncertainty
+full_geometry_neutron,full_geometry,Full geometry,neutron,0.39592629999142676,6.015326901776011e-05,0.39592629999142676,12000000.0,n/s,4751115.599897121,721.8392282131214,n/s,0.0001519304704412479
+full_geometry_photon,full_geometry,Full geometry,photon,0.061964139999999994,2.534473811860907e-05,0.061964139999999994,7825217.082711654,photons/s,484882.8468435364,198.32807768259292,photons/s,0.0004090226721230872
+no_cabinet_no_lead_neutron,no_cabinet_no_lead,No cabinet / no lead,neutron,0.8257662042835403,8.077976869992707e-05,0.8257662042835403,12000000.0,n/s,9909194.451402484,969.3572243991248,n/s,9.782401880931182e-05
+no_cabinet_no_lead_photon,no_cabinet_no_lead,No cabinet / no lead,photon,2.2735386300000004,0.00011875288215741571,2.2735386300000004,7825217.082711654,photons/s,17790933.325680852,929.2670820794534,photons/s,5.223262124972809e-05

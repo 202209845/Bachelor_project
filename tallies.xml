@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <mesh id="70">
+    <dimension>1 1 1</dimension>
+    <lower_left>-0.25 -0.25 -0.25</lower_left>
+    <upper_right>0.25 0.25 0.25</upper_right>
+  </mesh>
+  <mesh id="71">
+    <dimension>140 140 1</dimension>
+    <lower_left>-47.5 -38.5 -1.0</lower_left>
+    <upper_right>47.5 38.5 1.0</upper_right>
+  </mesh>
+  <mesh id="72">
+    <dimension>140 1 160</dimension>
+    <lower_left>-47.5 -1.0 -46.0</lower_left>
+    <upper_right>47.5 1.0 60.0</upper_right>
+  </mesh>
+  <mesh id="73">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 -35.5 0.0</lower_left>
+    <upper_right>1.0 -33.5 2.0</upper_right>
+  </mesh>
+  <mesh id="75">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 -35.5 43.0</lower_left>
+    <upper_right>1.0 -33.5 45.0</upper_right>
+  </mesh>
+  <mesh id="77">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 -35.207106781186546 13.0</lower_left>
+    <upper_right>44.207106781186546 -33.207106781186546 15.0</upper_right>
+  </mesh>
+  <mesh id="79">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 -35.207106781186546 43.0</lower_left>
+    <upper_right>44.207106781186546 -33.207106781186546 45.0</upper_right>
+  </mesh>
+  <mesh id="81">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.5 -1.0 3.0</lower_left>
+    <upper_right>44.5 1.0 5.0</upper_right>
+  </mesh>
+  <mesh id="83">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.5 -1.0 43.0</lower_left>
+    <upper_right>44.5 1.0 45.0</upper_right>
+  </mesh>
+  <mesh id="85">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 33.207106781186546 0.0</lower_left>
+    <upper_right>44.207106781186546 35.207106781186546 2.0</upper_right>
+  </mesh>
+  <mesh id="87">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 33.207106781186546 71.0</lower_left>
+    <upper_right>44.207106781186546 35.207106781186546 73.0</upper_right>
+  </mesh>
+  <mesh id="89">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 33.5 3.0</lower_left>
+    <upper_right>1.0 35.5 5.0</upper_right>
+  </mesh>
+  <mesh id="91">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 33.5 43.0</lower_left>
+    <upper_right>1.0 35.5 45.0</upper_right>
+  </mesh>
+  <mesh id="74">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 -35.5 0.0</lower_left>
+    <upper_right>1.0 -33.5 2.0</upper_right>
+  </mesh>
+  <mesh id="76">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 -35.5 43.0</lower_left>
+    <upper_right>1.0 -33.5 45.0</upper_right>
+  </mesh>
+  <mesh id="78">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 -35.207106781186546 13.0</lower_left>
+    <upper_right>44.207106781186546 -33.207106781186546 15.0</upper_right>
+  </mesh>
+  <mesh id="80">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 -35.207106781186546 43.0</lower_left>
+    <upper_right>44.207106781186546 -33.207106781186546 45.0</upper_right>
+  </mesh>
+  <mesh id="82">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.5 -1.0 3.0</lower_left>
+    <upper_right>44.5 1.0 5.0</upper_right>
+  </mesh>
+  <mesh id="84">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.5 -1.0 43.0</lower_left>
+    <upper_right>44.5 1.0 45.0</upper_right>
+  </mesh>
+  <mesh id="86">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 33.207106781186546 0.0</lower_left>
+    <upper_right>44.207106781186546 35.207106781186546 2.0</upper_right>
+  </mesh>
+  <mesh id="88">
+    <dimension>1 1 1</dimension>
+    <lower_left>42.207106781186546 33.207106781186546 71.0</lower_left>
+    <upper_right>44.207106781186546 35.207106781186546 73.0</upper_right>
+  </mesh>
+  <mesh id="90">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 33.5 3.0</lower_left>
+    <upper_right>1.0 35.5 5.0</upper_right>
+  </mesh>
+  <mesh id="92">
+    <dimension>1 1 1</dimension>
+    <lower_left>-1.0 33.5 43.0</lower_left>
+    <upper_right>1.0 35.5 45.0</upper_right>
+  </mesh>
+  <filter id="98" type="cell">
+    <bins>200</bins>
+  </filter>
+  <filter id="97" type="energy">
+    <bins>0.001 0.0011520000925200348 0.0013271042131661687 0.0015288241763511529 0.0017612055926033942 0.002028909005625913 0.0023373033621957836 0.0026925736894969285 0.003101845139417473 0.0035733258875917493 0.00411647175310993 0.004742175840438745 0.0054629870069317086 0.006293361537421076 0.007249953073371109 0.008351946611289428 0.009621443268927802 0.011083903535981095 0.012768657898933363 0.0147094950809279 0.016945339694151938 0.01952103289544644 0.022488231701640944 0.025906445000902334 0.02984422703790468 0.0343805523088551 0.03960639944069097 0.04562657582006143 0.052561819566083155 0.06055122100314914 0.06975501219782888 0.080357780505635 0.09257217057719616 0.10664314906971037 0.12285291759493422 0.14152657243572042 0.16303862453999335 0.18782051055441137 0.21636924553584208 0.2492573908757802 0.2871445373502013 0.33079053359405414 0.38107072530510205 0.43899351080815435 0.5057205650666887 0.5825901377461091 0.6711438925847775 0.77315782635192 0.8906778874900009 1.02606100879403 1.1820223770619218 1.3616898877360855 1.5686668766555663 1.8071043870403263 2.081784421063815 2.3982158456722815 2.762744876097482 3.1826823528735515 3.6664503649722096 4.223751159668101 4.865761726719257 5.6053579593610285 6.457372887791812 7.438894164172531 8.569606765373504 9.872187786570592 11.372761243504469 13.101422004725427 15.092839361587696 17.386952340939033 20.029770705403223 23.07429770577957 26.58159309189292 30.621997701190534 35.27654418491975 40.63858216481469 46.815650413749516 53.931633608024995 62.12924690620147 71.57289818414411 82.45198533006113 94.98469472869088 109.42237711543905 126.05458856074806 145.21489768455655 167.2875755678967 192.71530253166912 222.0080463465091 255.75328993137092 294.6278136632423 339.41126859903034 391.0018128284258 450.43412455384737 518.9001531602136 597.7730244492257 688.6345794714883 793.3070992636507 913.8898517485251 1052.8011937674228 1212.8270726252729 1397.176899875116 1609.5479179229908 1854.199350362713 2136.0378231684317 2460.7157699163295 2834.7447946091174 3265.6262656603935 3762.0017601766253 4333.826375784002 4992.568385868943 5751.439242433617 6625.658539406879 7632.759250402892 8792.939362647274 10129.466959292726 11669.146874283844 13442.85827880485 15486.17398091692 17840.073858797627 20551.766735899142 23675.637181205962 27274.33622322002 31420.03785257203 36195.88651314594 41697.66461198876 48035.71349088048 55337.14638576014 63748.39775619046 73438.16011313532 84600.76724483292 97460.09169331357 112274.03464770842 129339.69830175731 148999.34441013797 171647.25854590363 197737.65772569072 227793.79999469093 262418.47866937454 302306.1117060853 348256.66865478264 401191.7145110291 462172.89223497553 532423.2146149444 613351.592496231 706581.0913029695 813981.4825539255 937706.7432117183 1080238.254936561 1244434.5696305956 1433588.7393495773 1651494.3603663947 1902521.6559383967 2191705.123662405 2524844.5052357274 2908621.103630251 3350731.780487778 3860043.3211317454 4446770.263075118 5122679.7544778595 5901327.551109009 6798329.884868617 7831676.65635034 9022092.232702598 10393451.086797692 11973256.61359336 13793192.726625685 15889759.297219476 18305004.180517863 21087366.509536225 24292648.169989638 27985132.939384747 32238875.735356607 37139187.82987275 42784347.816132404 49287572.642593734 56779288.24435598 65409745.31071988 75352032.64966097 86805548.58398221 100000000.0</bins>
+  </filter>
+  <filter id="99" type="cell">
+    <bins>197</bins>
+  </filter>
+  <filter id="100" type="cell">
+    <bins>198</bins>
+  </filter>
+  <filter id="101" type="cell">
+    <bins>199</bins>
+  </filter>
+  <filter id="102" type="cell">
+    <bins>195</bins>
+  </filter>
+  <filter id="103" type="cell">
+    <bins>196</bins>
+  </filter>
+  <filter id="104" type="cell">
+    <bins>202</bins>
+  </filter>
+  <filter id="105" type="cell">
+    <bins>203</bins>
+  </filter>
+  <filter id="106" type="mesh">
+    <bins>70</bins>
+  </filter>
+  <filter id="107" type="mesh">
+    <bins>71</bins>
+  </filter>
+  <filter id="108" type="mesh">
+    <bins>72</bins>
+  </filter>
+  <filter id="109" type="mesh">
+    <bins>73</bins>
+  </filter>
+  <filter id="111" type="mesh">
+    <bins>75</bins>
+  </filter>
+  <filter id="113" type="mesh">
+    <bins>77</bins>
+  </filter>
+  <filter id="115" type="mesh">
+    <bins>79</bins>
+  </filter>
+  <filter id="117" type="mesh">
+    <bins>81</bins>
+  </filter>
+  <filter id="119" type="mesh">
+    <bins>83</bins>
+  </filter>
+  <filter id="121" type="mesh">
+    <bins>85</bins>
+  </filter>
+  <filter id="123" type="mesh">
+    <bins>87</bins>
+  </filter>
+  <filter id="125" type="mesh">
+    <bins>89</bins>
+  </filter>
+  <filter id="127" type="mesh">
+    <bins>91</bins>
+  </filter>
+  <filter id="110" type="mesh">
+    <bins>74</bins>
+  </filter>
+  <filter id="112" type="mesh">
+    <bins>76</bins>
+  </filter>
+  <filter id="114" type="mesh">
+    <bins>78</bins>
+  </filter>
+  <filter id="116" type="mesh">
+    <bins>80</bins>
+  </filter>
+  <filter id="118" type="mesh">
+    <bins>82</bins>
+  </filter>
+  <filter id="120" type="mesh">
+    <bins>84</bins>
+  </filter>
+  <filter id="122" type="mesh">
+    <bins>86</bins>
+  </filter>
+  <filter id="124" type="mesh">
+    <bins>88</bins>
+  </filter>
+  <filter id="126" type="mesh">
+    <bins>90</bins>
+  </filter>
+  <filter id="128" type="mesh">
+    <bins>92</bins>
+  </filter>
+  <tally id="100" name="source_flux_spectrum">
+    <filters>98 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="101" name="source_flux_total">
+    <filters>98</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="102" name="inner_paraffin_flux_total">
+    <filters>99</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="103" name="outer_paraffin_flux_total">
+    <filters>100</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="104" name="plastic_flux_total">
+    <filters>101</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="105" name="cabinet_wall_flux_total">
+    <filters>102</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="106" name="cabinet_air_flux_total">
+    <filters>103</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="107" name="sample1_flux_total">
+    <filters>104</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="108" name="sample2_flux_total">
+    <filters>105</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="109" name="source_position_flux_total">
+    <filters>106</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="110" name="source_position_flux_spectrum">
+    <filters>106 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="111" name="spatial_flux_mesh_xy">
+    <filters>107</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="112" name="spatial_flux_mesh_xz">
+    <filters>108</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="113" name="flux_P1_h42">
+    <filters>109</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="115" name="flux_P1_h85">
+    <filters>111</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="117" name="flux_P2_h55">
+    <filters>113</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="119" name="flux_P2_h85">
+    <filters>115</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="121" name="flux_P3_h45">
+    <filters>117</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="123" name="flux_P3_h85">
+    <filters>119</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="125" name="flux_P4_h42">
+    <filters>121</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="127" name="flux_P4_h113">
+    <filters>123</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="129" name="flux_P5_h45">
+    <filters>125</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="131" name="flux_P5_h85">
+    <filters>127</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="114" name="flux_spectrum_P1_h42">
+    <filters>110 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="116" name="flux_spectrum_P1_h85">
+    <filters>112 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="118" name="flux_spectrum_P2_h55">
+    <filters>114 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="120" name="flux_spectrum_P2_h85">
+    <filters>116 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="122" name="flux_spectrum_P3_h45">
+    <filters>118 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="124" name="flux_spectrum_P3_h85">
+    <filters>120 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="126" name="flux_spectrum_P4_h42">
+    <filters>122 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="128" name="flux_spectrum_P4_h113">
+    <filters>124 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="130" name="flux_spectrum_P5_h45">
+    <filters>126 97</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="132" name="flux_spectrum_P5_h85">
+    <filters>128 97</filters>
+    <scores>flux</scores>
+  </tally>
+</tallies>

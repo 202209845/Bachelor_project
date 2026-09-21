@@ -1,0 +1,3 @@
+consumer_notebook,purpose,canonical_path,comparison_rule
+Notebook 6,canonical theory-assisted total AP field,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N5_unified_measured_outputs/tables/measured_total_ap_field_common_grid_final.csv,Use as a model-assisted consistency comparison; retain separate neutron and gamma comparisons as the independent validation.
+Notebook 6,measured component and factor audit,/root/Rfys_VI/RFP-master/Bachelor_projekt/NF_AmBe_Parafifn/N5_unified_measured_outputs/tables/scaled_measured_components_component_specific.csv,"Retain radiation type, actual measured height, component factor, measurement SEM, and Notebook 3 MC factor term."
